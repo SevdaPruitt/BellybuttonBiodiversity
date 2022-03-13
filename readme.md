@@ -1,6 +1,5 @@
 
-![Visual1.png](static/images/Visual1.png)
-
+##BELLYBUTTON BIO-DIVERSITY
 Your belly button is the leftover remnant of what was once the umbilical cord, the rope-like connection between you and your mother that supplied all of your nutrients and oxygen when you were in the womb. When you were born, the doctor (or maybe even your shaky-handed father) cut the umbilical cord a couple of inches away from your belly and clamped off the remaining section.
 
 According to a delightfully odd scientific initiative called the Belly Button Diversity project, belly buttons are home to a startling diversity of bacteria. The fun started back in 2011 at North Carolina State University, when a team of young researchers got the idea to explore the microbiome of the belly button. Would the bacteria colonies in the navel be different than those found on the rest of the body? 
@@ -15,3 +14,5 @@ One dude (and we're assuming it was a dude) not only carried loads of bacteria i
 
 
 Below is our research sample data and its visual display with different types of charts.
+![Visual2.png](static/images/Visual2.png)
+![Visual1.png](static/images/Visual1.png)
